@@ -1,9 +1,0 @@
-<RCC>
-    <qresource prefix="/sounds">
-        <file>zapsplat_multimedia_game_tone_harp_warm_positive_correct_win_003_50714.mp3</file>
-        <file>app_alert_tone_remove_delete_002.mp3</file>
-        <file>esm_5_wickets_sound_fx_arcade_casino_kids_mobile_app.mp3</file>
-        <file>esm_8_bit_game_over_1_arcade_80s_simple_alert_notification_game.mp3</file>
-        <file>sound_ex_machina_Applause,+Clapping,+Crowd+Ambience.mp3</file>
-    </qresource>
-</RCC>
